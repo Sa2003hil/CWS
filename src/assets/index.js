@@ -24,6 +24,9 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import OSC from "./company/OSC.png";
+import dv from './company/dv.png'
+import Medofin from "./company/medofin.jpg";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -55,6 +58,9 @@ export {
   meta,
   shopify,
   starbucks,
+  OSC,
+  Medofin,
+  dv,
   tesla,
   carrent,
   jobit,
